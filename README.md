@@ -99,5 +99,3 @@ Passionate about GenAI, product thinking, and solving real-world problems with m
 - [Email](chandelkushagra@gmail.com)
 ```
 
----
-
