@@ -101,5 +101,3 @@ Passionate about GenAI, product thinking, and solving real-world problems with m
 
 ---
 
-Tu chahe toh isme apna email, portfolio link, ya placement-specific note bhi daal sakta hai.  
-Bata, chahega main ek Streamlit UI bhi design karwa doon iske liye? Tera repo ab spotlight mein hai 💡
